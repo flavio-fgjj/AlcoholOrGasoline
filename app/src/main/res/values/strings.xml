@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">AlcoholOrGasoline</string>
+    <string name="app_name">Fuel Calculate</string>
+    <string name="app_title">Alcohol or Gasoline</string>
+    <string name="app_subtitle">The best option to your Flex</string>
+    <string name="hint_alcohol">Alcohol price $3.70</string>
+    <string name="hint_gasoline">Gasoline price $5.75</string>
+    <string name="btn_title">Calculate</string>
+    <string name="result">The best option is: </string>
 </resources>
